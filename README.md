@@ -12,7 +12,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ricte#5202) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/robertobravo.l) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robertobravolpz@gmail.com) 
-<>/div
+</div>
 
 # 💻 Tech Stack:
 <div align="center">
